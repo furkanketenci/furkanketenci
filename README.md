@@ -7,7 +7,7 @@ I develop projects with Html, Css and JavaScript. Here I share the projects I ha
 -->
 
 - 🔭 I’m currently working on  JavaScript 
-- 🌱 I’m currently learning JavaScript and React - Vue
+- 🌱 I’m currently learning JavaScript and React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
