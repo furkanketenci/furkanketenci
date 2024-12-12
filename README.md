@@ -1,6 +1,7 @@
 ### Hello to everyone 👋. 
-I'm Furkan Ketenci. I studied Management Information Systems. I am interested in front - end development. I organize my work accordingly.
-I develop projects with Html, Css and JavaScript. Here I share the projects I have developed. 
+
+Front-end developer with a passion for self-learning, creating high-performance web applications, and pixel-perfect work. He is open to different ideas, attaches importance to teamwork and communication, and has the ability to constantly follow industry trends and stay up to date.
+
 
 <!--
 **furkanketenci/furkanketenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
