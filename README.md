@@ -6,7 +6,7 @@ I develop projects with Html, Css and JavaScript. Here I share the projects I ha
 **furkanketenci/furkanketenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on  JavaScript, ReactJs, NextJs
+- 🔭 I’m currently working on  JavaScript, React.js, Next.js, React Native
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
