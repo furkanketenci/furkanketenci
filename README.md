@@ -7,7 +7,7 @@ Front-end developer with a passion for self-learning, creating high-performance 
 **furkanketenci/furkanketenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on  JavaScript, React.js, Next.js, React Native
+- 🔭 I’m currently working on  TypeScript, JavaScript, React.js, Next.js, React Native
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
